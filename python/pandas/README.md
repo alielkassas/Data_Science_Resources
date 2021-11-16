@@ -1,0 +1,13 @@
+### Resources
+
+#### Videos
+- [Data analysis in Python with pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
+
+
+
+#### Books
+
+
+#### Courses
+- [Kaggle Pandas Course](https://www.kaggle.com/learn/pandas)
+- [Kaggle Data Cleaning Course](https://www.kaggle.com/learn/data-cleaning)
