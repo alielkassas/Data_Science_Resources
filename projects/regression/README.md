@@ -1,4 +1,10 @@
-### Feel free to choose any dataset for your regression project. Here are some examples:  
+## Regression Project Information:
+The main goal is to prepare you to apply machine learning algorithms to real-world datasets.
+
+### Previous projects
+
+### Project Topics
+Your first task is to pick a project topic. Here are some examples:
 
 | **Dataset** | Overview   |  
 |:------|:-------|
