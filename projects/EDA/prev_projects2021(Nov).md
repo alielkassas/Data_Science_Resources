@@ -16,4 +16,5 @@
 - **Superstore Sales** [Github](https://github.com/alaa1414-ai/Superstore-Sales-Project)[Kaggle](https://www.kaggle.com/alaaalghmdi/superstore-sales/notebook)
 - **Used Cars** [Github](https://github.com/REHAB199/T5-EDA)[Kaggle](https://www.kaggle.com/rehabnawar1234/used-cars-eda/data)
 - **Cardiovascular Diseases** [Github](https://github.com/mukhtar2019/cardiovascular_diseases-EDA-)[Blog](https://medium.com/@mukhtar.al.bin.hamad/eda-project-for-cardiovascular-diseases-194d7c8c579a)
-- **New York City Airbnb** [Github](https://github.com/Alzabyedi/EDA_Project)
+- **New York City Airbnb** [\[Github\]](https://github.com/Alzabyedi/EDA_Project)
+- **NYC Restaurant Inspections** [Github](https://github.com/Maria7F/analyze-nyc-inspection-dataset)[Blog](https://maria-felemban-blog.squarespace.com/blog)
