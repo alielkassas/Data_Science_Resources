@@ -1,3 +1,12 @@
+## EDA Project Information:
+The main goal is to prepare you to apply EDA to real-world datasets
+
+### Previous projects
+- [Nov 2021](https://github.com/alielkassas/Data_Science_Resources/blob/main/projects/EDA/prev_projects2021(Nov).md)
+
+### Project Topics
+Your first task is to pick a project topic. Here are some examples:
+
 | **Dataset** | Overview   |  Example Questions|
 |:------|:-------|:-------|
 | *[Airbnb in New York City](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)* | This data file includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions.   |   Which hosts are the busiest and why? <br> <br> Is there any noticeable difference of traffic among different areas and what could be the reason for it?|
