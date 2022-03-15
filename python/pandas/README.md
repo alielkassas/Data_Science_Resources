@@ -6,7 +6,7 @@
 
 
 #### Books
-
+- [Python Data Science Handbook (chapter 3)](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 
 #### Courses
 - [Kaggle Pandas Course](https://www.kaggle.com/learn/pandas)
