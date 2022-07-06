@@ -7,3 +7,4 @@
 - [Machine Learning by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction)
 - Applied Machine Learning by Andreas Mueller [\[2020\]](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)[\[2019\]](https://www.youtube.com/playlist?list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA)
 - [Machine Learning Zoomcamp by Alexey Grigorev](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
+- [Introduction to Machine Learning by Sebastian Raschka](https://sebastianraschka.com/blog/2021/ml-course.html)
