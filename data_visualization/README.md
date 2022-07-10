@@ -11,3 +11,6 @@
 
 #### Courses
 - [Kaggle Data Visualization Course](https://www.kaggle.com/learn/data-visualization)
+
+#### Additional Res:
+- [From data to Vis, Find the graphic you need](https://www.data-to-viz.com/)
