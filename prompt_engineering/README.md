@@ -1,6 +1,7 @@
 ### Resources
 
-
+### Books
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)
 
 
 #### Courses
